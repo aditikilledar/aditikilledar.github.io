@@ -1,7 +1,3 @@
-Creating a README file for your personal portfolio website involves highlighting your skills, experiences, projects, and other relevant information in a concise and engaging way. Here's a draft based on the details from your resume:
-
----
-
 # Aditi Killedar's Personal Portfolio
 
 Welcome to my personal portfolio website! This site showcases my journey and accomplishments in the field of computer science and engineering. Below you'll find an overview of my skills, experiences, projects, and contact information.
